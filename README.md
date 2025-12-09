@@ -64,16 +64,16 @@ RedTeamCrashKit/
 
 ### ❓ FAQ
 **Q: Can I run these scripts on my main machine?**
-A: **No!** Always test in a **VM, container, or isolated lab**. These scripts can crash your system.
+- A: **No!** Always test in a **VM, container, or isolated lab**. These scripts can crash your system.
 
 **Q: How do I test defenses?**
-A: Use the offensive scripts to **simulate attacks**, then apply the mitigations to see if they work.
+- A: Use the offensive scripts to **simulate attacks**, then apply the mitigations to see if they work.
 
 **Q: Is this legal?**
-A: **Yes, if used ethically**. Only test systems you own or have permission to test. Unauthorized attacks are illegal.
+- A: **Yes, if used ethically**. Only test systems you own or have permission to test. Unauthorized attacks are illegal.
 
 **Q: Can I contribute?**
-A: While this repo is self-contained, you’re welcome to **share feedback or suggestions** via GitHub Issues.
+- A: While this repo is self-contained, you’re welcome to **share feedback or suggestions** via GitHub Issues.
 
 ## 📜 License
 This project is licensed under the **MIT License**. See LICENSE for details.
