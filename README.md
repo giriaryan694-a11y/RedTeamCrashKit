@@ -31,6 +31,7 @@ RedTeamCrashKit/
 │   ├── bash_fork_bomb.sh
 │   ├── powershell_fork_bomb.ps1
 │   ├── cmd_fork_bomb.bat
+│   ├── fork_bomb.c
 │   └── zsh_fork_bomb.zsh
 │   └── README.md
 |
